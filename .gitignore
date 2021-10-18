@@ -3,6 +3,7 @@
 __pycache__/
 *$py.class
 
+
 # C extensions
 *.so
 
@@ -38,3 +39,6 @@ MANIFEST
 
 #user files
 /script.py
+Pipfile
+Pipfile.lock
+*.pyc
